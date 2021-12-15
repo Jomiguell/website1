@@ -1,0 +1,28 @@
+
+h1 {
+	color: #161E54;
+	font-family: Goudy Old Style;
+}
+p {
+	color: #3F3351;
+}
+
+h2{
+	color: #7027A0;
+}
+
+h3{
+	color: #3D0000;
+	font-family: Goudy Old Style;
+}
+
+body{
+	font-family: Lucida Fax, ihelvetca, sans-serif;
+	font-size: 20px;
+	line-height: 1.6em;
+	margin: 0;
+}
+.table-wrapper{
+	margin: 10px;
+	border-style: dotted;
+}
